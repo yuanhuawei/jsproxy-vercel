@@ -1,0 +1,7 @@
+{
+  "name": "proxy",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://proxy.mtdickens.workers.dev/$1"}
+  ]
+}
