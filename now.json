@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://mtdproxy-us.herokuapp.com/$1"}
+    {"src": "/(.*)","dest": "https://proxy.mtdickens.workers.dev/$1"}
   ]
 }
