@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://proxy.mtdickens.workers.dev/$1"}
+    {"src": "/(.*)","dest": "https://green-pine-f44f.syzfclub7463.workers.dev/$1"}
   ]
 }
